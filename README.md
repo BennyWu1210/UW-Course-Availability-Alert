@@ -1,12 +1,11 @@
 # **🎓 Class Spot Checker Script**
 A Python script that monitors class enrollment availability at the University of Waterloo and sends instant SMS notification via Twilio when a spot becomes available.
 
----
 
 ## 🚀 **Features**
 - 📊 **Class Enrollment Monitoring:** Scrapes the course enrollment page regularly
 - 📱 **SMS Notifications:** Get instant alerts via Twilio SMS when a spot is available.  
----
+
 
 ## 🛠️ **Setup & Installation**
 
